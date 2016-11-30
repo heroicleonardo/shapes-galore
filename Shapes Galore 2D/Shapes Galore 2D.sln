@@ -1,0 +1,23 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{DBB5B3CA-133A-E328-6FD4-FA3D18DDC1A8}") = "Shapes Galore 2D", "Assembly-CSharp.csproj", "{968CA795-1C0F-4101-D3E8-61C8FE0FCEF4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{968CA795-1C0F-4101-D3E8-61C8FE0FCEF4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{968CA795-1C0F-4101-D3E8-61C8FE0FCEF4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{968CA795-1C0F-4101-D3E8-61C8FE0FCEF4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{968CA795-1C0F-4101-D3E8-61C8FE0FCEF4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
